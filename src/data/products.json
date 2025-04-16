@@ -1,0 +1,1244 @@
+{
+  "Computers": {
+    "products": [
+      {
+        "productName": "Dell Inspiron...",
+        "price": "$1124.2",
+        "description": "Dell Inspiron 17 2in1 (7779) Silver, 17.3\" FHD Touch, Core i5-7200U, 12GB, 1TB, GeForce GT940MX 2GB, Windows 10 Home",
+        "rating": "3",
+        "reviews": "N/A",
+        "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/105"
+      },
+      {
+        "productName": "Asus MeMO Pad",
+        "price": "$102.99",
+        "description": "7\" screen, Android, 8GB",
+        "rating": "4",
+        "reviews": "N/A",
+        "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/12"
+      },
+      {
+        "productName": "Packard 255 G2",
+        "price": "$416.99",
+        "description": "15.6\", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1",
+        "rating": "2",
+        "reviews": "N/A",
+        "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/31"
+      }
+    ],
+    "subcategories": {
+      "Laptops": [
+        {
+          "productName": "Asus VivoBook X4",
+          "price": "$295.99",
+          "description": "Asus VivoBook X441NA-GA190 Chocolate Black, 14\", Celeron N3450, 4GB, 128GB SSD, Endless OS, ENG kbd",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/60"
+        },
+        {
+          "productName": "Prestigio SmartB",
+          "price": "$299",
+          "description": "Prestigio SmartBook 133S Dark Grey, 13.3\" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/61"
+        },
+        {
+          "productName": "Prestigio SmartB",
+          "price": "$299",
+          "description": "Prestigio SmartBook 133S Gold, 13.3\" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/62"
+        },
+        {
+          "productName": "Aspire E1-510",
+          "price": "$306.99",
+          "description": "15.6\", Pentium N3520 2.16GHz, 4GB, 500GB, Linux",
+          "rating": "N/A",
+          "reviews": "2 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/32"
+        },
+        {
+          "productName": "Lenovo V110-15IA",
+          "price": "$321.94",
+          "description": "Lenovo V110-15IAP, 15.6\" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/63"
+        },
+        {
+          "productName": "Lenovo V110-15IA",
+          "price": "$356.49",
+          "description": "Asus VivoBook 15 X540NA-GQ008T Chocolate Black, 15.6\" HD, Pentium N4200, 4GB, 500GB, Windows 10 Home, En kbd",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/64"
+        },
+        {
+          "productName": "Hewlett Packard",
+          "price": "$364.46",
+          "description": "Hewlett Packard 250 G6 Dark Ash Silver, 15.6\" HD, Celeron N3060 1.6GHz, 4GB, 128GB SSD, DOS",
+          "rating": "N/A",
+          "reviews": "11 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/65"
+        },
+        {
+          "productName": "Acer Aspire 3 A3",
+          "price": "$372.7",
+          "description": "Acer Aspire 3 A315-31 Black, 15.6\" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/66"
+        },
+        {
+          "productName": "Acer Aspire A315",
+          "price": "$379.94",
+          "description": "Acer Aspire A315-31-C33J Black 15.6\", HD, Celeron N3350, 4GB DDR3L, 128GB, Windows 10 Home, ENG",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/67"
+        },
+        {
+          "productName": "Acer Aspire ES1-",
+          "price": "$379.95",
+          "description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Linux",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/68"
+        },
+        {
+          "productName": "Acer Aspire 3 A3",
+          "price": "$391.48",
+          "description": "Acer Aspire 3 A315-31 Black, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/69"
+        },
+        {
+          "productName": "Acer Aspire 3 A3",
+          "price": "$393.88",
+          "description": "Acer Aspire 3 A315-21, 15.6\", AMD A4-9120. 4GB. 128GB SSD, Linux",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/70"
+        },
+        {
+          "productName": "Asus VivoBook Ma",
+          "price": "$399",
+          "description": "Asus VivoBook Max X541NA-GQ041 Black Chocolate, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 500GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/45"
+        },
+        {
+          "productName": "Asus VivoBook E5",
+          "price": "$399.99",
+          "description": "Asus VivoBook E502NA-GO022T Dark Blue, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/71"
+        },
+        {
+          "productName": "Lenovo ThinkPad",
+          "price": "$404.23",
+          "description": "Lenovo ThinkPad E31-80, 13.3\" HD, Celeron 3855U 1.6GHz, 4GB, 128GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/72"
+        },
+        {
+          "productName": "Acer Aspire 3 A3",
+          "price": "$408.98",
+          "description": "Acer Aspire 3 A315-31 Black, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/73"
+        },
+        {
+          "productName": "Lenovo V110-15IS",
+          "price": "$409.63",
+          "description": "Lenovo V110-15ISK, 15.6\" HD, Core i3-6006U, 8GB, 128GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/74"
+        },
+        {
+          "productName": "Acer Aspire ES1-",
+          "price": "$410.46",
+          "description": "Acer Aspire ES1-732 Black, 17.3\" HD+, Celeron, N3350, 4GB, 1TB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/75"
+        },
+        {
+          "productName": "Asus VivoBook 15",
+          "price": "$410.66",
+          "description": "Asus VivoBook 15 X540NA-GQ026T Chocolate Black, 15.6\" HD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/76"
+        },
+        {
+          "productName": "Packard 255 G2",
+          "price": "$416.99",
+          "description": "15.6\", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1",
+          "rating": "N/A",
+          "reviews": "7 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/31"
+        },
+        {
+          "productName": "Asus EeeBook R41",
+          "price": "$433.3",
+          "description": "Asus EeeBook R416NA-FA014T, 14\" FHD, Pentium N4200, 4GB, 128GB eMMC, Windows 10 Home, Eng kbd",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/77"
+        },
+        {
+          "productName": "Acer Aspire 3 A3",
+          "price": "$436.29",
+          "description": "Acer Aspire 3 A315-51, 15.6\" HD, Core i3-6006U, 4GB, 1TB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/78"
+        },
+        {
+          "productName": "Acer Aspire ES1-",
+          "price": "$436.29",
+          "description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i3-6006U, 4GB, 500GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/79"
+        },
+        {
+          "productName": "Acer Extensa 15",
+          "price": "$439.73",
+          "description": "Acer Extensa 15 (2540) Black, 15.6\" HD, Core i5-7200U, 4GB, 500GB, Linux",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/80"
+        },
+        {
+          "productName": "Acer Aspire ES1-",
+          "price": "$454.62",
+          "description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i5-7200U, 4GB, 500GB, Linux",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/81"
+        },
+        {
+          "productName": "Lenovo V110-15IS",
+          "price": "$454.73",
+          "description": "Lenovo V110-15ISK, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/82"
+        },
+        {
+          "productName": "Acer Aspire A315",
+          "price": "$457.38",
+          "description": "Acer Aspire A315-51-33TG, Black 15.6\" HD, Core i3-7100U, 4GB DDR4, 128GB SSD, Windows 10 Home, ENG",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/83"
+        },
+        {
+          "productName": "Lenovo V110-15IK",
+          "price": "$465.95",
+          "description": "Lenovo V110-15IKB, 15.6\" HD, Core i5-7200U, 4GB, 500GB, DOS",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/84"
+        },
+        {
+          "productName": "Asus VivoBook 15",
+          "price": "$468.56",
+          "description": "Asus VivoBook 15 X540UA-DM260 Chocolate Black, 15.6\" FHD, Core i3-6006U, 4GB, 256GB SSD, Endless OS, En kbd",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/85"
+        },
+        {
+          "productName": "Acer Aspire ES1-",
+          "price": "$469.1",
+          "description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/86"
+        },
+        {
+          "productName": "Lenovo V510 Blac",
+          "price": "$484.23",
+          "description": "Lenovo V510 Black, 14\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/87"
+        },
+        {
+          "productName": "Acer Aspire ES1-",
+          "price": "$485.9",
+          "description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i5-7200U, 4GB, 128GB SSD, Linux",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/88"
+        },
+        {
+          "productName": "Lenovo V510 Blac",
+          "price": "$487.8",
+          "description": "Lenovo V510 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/89"
+        },
+        {
+          "productName": "Acer Swift 1 SF1",
+          "price": "$488.64",
+          "description": "Acer Swift 1 SF113-31 Silver, 13.3\" FHD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/90"
+        },
+        {
+          "productName": "Dell Vostro 15",
+          "price": "$488.78",
+          "description": "Dell Vostro 15 (3568) Black, 15.6\" FHD, Core i5-7200U, 4GB, 128GB SSD, Radeon R5 M420 2GB, Linux",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/46"
+        },
+        {
+          "productName": "Acer Aspire 3 A3",
+          "price": "$494.71",
+          "description": "Acer Aspire 3 A315-51 Black, 15.6\" FHD, Core i3-7100U, 4GB, 500GB + 128GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/91"
+        },
+        {
+          "productName": "Dell Vostro 15 (",
+          "price": "$497.17",
+          "description": "Dell Vostro 15 (3568) Red, 15.6\" HD, Core i5-7200U, 4GB, 1TB, Radeon R5 M420 2GB, Linux",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/92"
+        },
+        {
+          "productName": "Lenovo V510 Blac",
+          "price": "$498.23",
+          "description": "Lenovo V510 Black, 15.6\" FHD, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/93"
+        },
+        {
+          "productName": "HP 250 G3",
+          "price": "$520.99",
+          "description": "15.6\", Core i5-4210U, 4GB, 500GB, Windows 8.1",
+          "rating": "N/A",
+          "reviews": "7 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/42"
+        },
+        {
+          "productName": "Acer Spin 5",
+          "price": "$564.98",
+          "description": "Acer Spin 5 SP513-51 Black, 13.3\" FHD Touch, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/47"
+        },
+        {
+          "productName": "HP 350 G1",
+          "price": "$577.99",
+          "description": "15.6\", Core i5-4200U, 4GB, 750GB, Radeon HD8670M 2GB, Windows",
+          "rating": "N/A",
+          "reviews": "7 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/44"
+        },
+        {
+          "productName": "Aspire E1-572G",
+          "price": "$581.99",
+          "description": "15.6\", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1",
+          "rating": "N/A",
+          "reviews": "2 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/36"
+        },
+        {
+          "productName": "Pavilion",
+          "price": "$609.99",
+          "description": "15.6\", Core i5-4200U, 6GB, 750GB, Windows 8.1",
+          "rating": "N/A",
+          "reviews": "5 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/38"
+        },
+        {
+          "productName": "Acer Aspire A515",
+          "price": "$679",
+          "description": "Acer Aspire A515-51-5654, Black, 15.6\", FHD, Core i5-8250U, 8GB DDR4, 256GB SSD, Windows 10 Home, ENG",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/48"
+        },
+        {
+          "productName": "Dell Inspiron 15",
+          "price": "$679",
+          "description": "Dell Inspiron 15 (5567) Fog Gray, 15.6\" FHD, Core i5-7200U, 8GB, 1TB, Radeon R7 M445 4GB, Linux",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/49"
+        },
+        {
+          "productName": "Asus VivoBook S1",
+          "price": "$729",
+          "description": "Asus VivoBook S14 (S406UA-BV041T) Starry Grey, 14\", Core i5-8250U, 8GB, 256GB SSD, Windows 10 Home, Eng kbd",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/50"
+        },
+        {
+          "productName": "ProBook",
+          "price": "$739.99",
+          "description": "14\", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit",
+          "rating": "N/A",
+          "reviews": "5 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/34"
+        },
+        {
+          "productName": "Inspiron 15",
+          "price": "$745.99",
+          "description": "Moon Silver, 15.6\", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,",
+          "rating": "N/A",
+          "reviews": "11 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/39"
+        },
+        {
+          "productName": "Asus ROG STRIX G",
+          "price": "$799",
+          "description": "Asus ROG STRIX GL553VD-DM256, 15.6\" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/51"
+        },
+        {
+          "productName": "Acer Nitro 5 AN5",
+          "price": "$809",
+          "description": "Acer Nitro 5 AN515-51, 15.6\" FHD IPS, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/52"
+        },
+        {
+          "productName": "Asus ROG STRIX G",
+          "price": "$899",
+          "description": "Asus ROG STRIX GL553VD-DM256, 15.6\" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS + Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/53"
+        },
+        {
+          "productName": "Lenovo ThinkPad",
+          "price": "$999",
+          "description": "Lenovo ThinkPad L570, 15.6\" FHD, Core i7-7500U, 8GB, 256GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/54"
+        },
+        {
+          "productName": "ThinkPad Yoga",
+          "price": "$1033.99",
+          "description": "12.5\" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,",
+          "rating": "N/A",
+          "reviews": "10 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/37"
+        },
+        {
+          "productName": "Lenovo ThinkPad",
+          "price": "$1096.02",
+          "description": "Lenovo ThinkPad L460, 14\" FHD IPS, Core i7-6600U, 8GB, 256GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/94"
+        },
+        {
+          "productName": "Dell Inspiron 15",
+          "price": "$1098.42",
+          "description": "Dell Inspiron 15 (7567) Black, 15.6\" FHD, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 4GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/95"
+        },
+        {
+          "productName": "MSI GL72M 7RDX",
+          "price": "$1099",
+          "description": "MSI GL72M 7RDX, 17.3\" FHD, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/96"
+        },
+        {
+          "productName": "MSI GL72M 7RDX",
+          "price": "$1099",
+          "description": "Asus ROG Strix GL553VD-DM535T, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home, Eng kbd",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/97"
+        },
+        {
+          "productName": "Asus ROG Strix G",
+          "price": "$1101.83",
+          "description": "Apple MacBook Air 13.3\", Core i5 1.8GHz, 8GB, 128GB SSD, Intel HD 4000, RUS",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/98"
+        },
+        {
+          "productName": "Dell Latitude 52",
+          "price": "$1102.66",
+          "description": "Dell Latitude 5280, 12.5\" HD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/99"
+        },
+        {
+          "productName": "Dell Latitude 54",
+          "price": "$1110.14",
+          "description": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 500GB, Linux + Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/100"
+        },
+        {
+          "productName": "Lenovo Legion Y5",
+          "price": "$1112.91",
+          "description": "Lenovo Legion Y520-15IKBM, Black, 15.6\" FHD IPS, Core i5-7300HQ, 8 GB, 128GB SSD + 2 TB HDD, NVIDIA GeForce GTX 1060 6 GB, FreeDOS + Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/101"
+        },
+        {
+          "productName": "Toshiba Portege",
+          "price": "$1114.55",
+          "description": "Toshiba Portege Z30-C-16J Grey, 13.3\" FHD, Core i5-6200U, 8GB, 256GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "7 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/102"
+        },
+        {
+          "productName": "Acer Predator He",
+          "price": "$1123.87",
+          "description": "Acer Predator Helios 300 (PH317-51), 17.3\" FHD IPS, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050Ti 4GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/103"
+        },
+        {
+          "productName": "Acer Aspire 7 A7",
+          "price": "$1123.87",
+          "description": "Acer Aspire 7 A715-71G, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB HDD, GTX 1050 Ti 4GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/104"
+        },
+        {
+          "productName": "Dell Inspiron 17",
+          "price": "$1124.2",
+          "description": "Dell Inspiron 17 2in1 (7779) Silver, 17.3\" FHD Touch, Core i5-7200U, 12GB, 1TB, GeForce GT940MX 2GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/105"
+        },
+        {
+          "productName": "Dell Latitude 54",
+          "price": "$1133.82",
+          "description": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 500GB, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/106"
+        },
+        {
+          "productName": "Lenovo Legion Y5",
+          "price": "$1133.91",
+          "description": "Lenovo Legion Y520, 15.6\" FHD, Core i7-7700HQ, 8GB, 128 GB SSD + 1TB HDD, GTX 1050 4GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/107"
+        },
+        {
+          "productName": "Asus AsusPro Adv",
+          "price": "$1139.54",
+          "description": "Asus AsusPro Advanced BU401LA-FA271G Dark Grey, 14\", Core i5-4210U, 4GB, 128GB SSD, Win7 Pro 64bit, ENG",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/108"
+        },
+        {
+          "productName": "Acer Nitro 5 AN5",
+          "price": "$1140.62",
+          "description": "Acer Nitro 5 AN515-51, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD +1TB, GeForce GTX 1050 Ti 4GB, Windows 10 Home + Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/109"
+        },
+        {
+          "productName": "Dell Latitude 54",
+          "price": "$1143.4",
+          "description": "Dell Latitude 5480, 14\" FHD, Core i5-7440HQ, 8GB, 256GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/110"
+        },
+        {
+          "productName": "Dell Inspiron 15",
+          "price": "$1144.2",
+          "description": "Dell Inspiron 15 (7567) Black, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB, GeForce GTX 1050 Ti 4GB, Linux + Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/111"
+        },
+        {
+          "productName": "Dell Latitude 55",
+          "price": "$1144.4",
+          "description": "Dell Latitude 5580, 15.6\" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/112"
+        },
+        {
+          "productName": "Lenovo Legion Y5",
+          "price": "$1149",
+          "description": "Lenovo Legion Y520-15IKBM, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB, GeForce GTX 1060 Max-Q 6GB, DOS",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/55"
+        },
+        {
+          "productName": "MSI GP62M 7RDX L",
+          "price": "$1149",
+          "description": "MSI GP62M 7RDX Leopard, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/113"
+        },
+        {
+          "productName": "Lenovo Yoga 720",
+          "price": "$1149.73",
+          "description": "Lenovo Yoga 720 Grey, 15.6\" FHD IPS, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/114"
+        },
+        {
+          "productName": "Toshiba Portege",
+          "price": "$1154.04",
+          "description": "Toshiba Portege Z30-C-16L Grey, 13.3\" FHD, Core i7-6500U, 8GB, 256GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "7 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/115"
+        },
+        {
+          "productName": "Acer TravelMate",
+          "price": "$1170.1",
+          "description": "Acer TravelMate P645-S-511A Black, 14\" FHD IPS, Core i5-5200U, 8GB, 256GB SSD, 3G, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/116"
+        },
+        {
+          "productName": "Dell Latitude 55",
+          "price": "$1178.19",
+          "description": "Dell Latitude 5580, 15.6\" FHD, Core i5-7300U, 16GB, 256GB SSD, Linux + Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/117"
+        },
+        {
+          "productName": "ThinkPad T540p",
+          "price": "$1178.99",
+          "description": "15.6\", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit",
+          "rating": "N/A",
+          "reviews": "10 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/33"
+        },
+        {
+          "productName": "MSI GS63 7RD Ste",
+          "price": "$1179",
+          "description": "MSI GS63 7RD Stealth, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, DOS + Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/118"
+        },
+        {
+          "productName": "Dell Latitude 54",
+          "price": "$1187.88",
+          "description": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/119"
+        },
+        {
+          "productName": "Acer Predator He",
+          "price": "$1187.98",
+          "description": "Acer Predator Helios 300 (PH317-51), 17.3\" FHD IPS, Core i7-7700HQ. 8GB, 128GB SSD +1TB, GeForce GTX 1050Ti 4GB, Linux + Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/120"
+        },
+        {
+          "productName": "MSI GL62M 7REX",
+          "price": "$1199",
+          "description": "MSI GL62M 7REX, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/121"
+        },
+        {
+          "productName": "MSI GL62M 7REX2",
+          "price": "$1199",
+          "description": "MSI GL62M 7REX2, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/122"
+        },
+        {
+          "productName": "Lenovo Yoga 910",
+          "price": "$1199.73",
+          "description": "Lenovo Yoga 910 Grey, 13.9\" FHD Touch, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/123"
+        },
+        {
+          "productName": "Toshiba Portege",
+          "price": "$1203.41",
+          "description": "Toshiba Portege X30-D-10J Black/Blue, 13.3\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "7 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/124"
+        },
+        {
+          "productName": "Lenovo IdeaPad M",
+          "price": "$1212.16",
+          "description": "Lenovo IdeaPad Miix 510 Platinum Silver, 12.2\" IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/125"
+        },
+        {
+          "productName": "Acer Predator He",
+          "price": "$1221.58",
+          "description": "Acer Predator Helios 300 (PH317-51), 17.3\" FHD IPS, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/126"
+        },
+        {
+          "productName": "ThinkPad Yoga",
+          "price": "$1223.99",
+          "description": "12.5\" Touch, Core i5 4200U, 8GB, 500GB + 16GB SSD Cache, Windows",
+          "rating": "N/A",
+          "reviews": "10 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/43"
+        },
+        {
+          "productName": "Asus VivoBook Pr",
+          "price": "$1235.49",
+          "description": "Asus VivoBook Pro 15 N580VN-FI006T Gold Metal, 15.6\" UHD, Core i7-7700HQ, 16GB, 1TB + 256GB SSD, GeForce MX150 2GB, Windows 10 Home, Eng kbd",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/127"
+        },
+        {
+          "productName": "Dell Latitude 54",
+          "price": "$1238.37",
+          "description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/128"
+        },
+        {
+          "productName": "Asus ZenBook UX5",
+          "price": "$1239.2",
+          "description": "Asus ZenBook UX530UX-FY040T Blue, 15.6\" FHD, Core i7-7500U, 8GB, 512GB SSD, GeForce GTX950M 2GB, Windows 10 Home, Eng kbd",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/129"
+        },
+        {
+          "productName": "ThinkPad X230",
+          "price": "$1244.99",
+          "description": "12.5\", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit",
+          "rating": "N/A",
+          "reviews": "10 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/41"
+        },
+        {
+          "productName": "Asus ROG Strix G",
+          "price": "$1259",
+          "description": "Asus ROG Strix GL753VE-GC096T, 17.3\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home, Eng kbd",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/130"
+        },
+        {
+          "productName": "Apple MacBook Ai",
+          "price": "$1260.13",
+          "description": "Apple MacBook Air 13\", i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, ENG",
+          "rating": "N/A",
+          "reviews": "5 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/131"
+        },
+        {
+          "productName": "Dell Latitude 54",
+          "price": "$1271.06",
+          "description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 1TB, GeForce GT930MX, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/132"
+        },
+        {
+          "productName": "Hewlett Packard",
+          "price": "$1273.11",
+          "description": "Hewlett Packard Spectre 13-v106na Dark Ash Silver, 13.3\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "11 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/133"
+        },
+        {
+          "productName": "Dell XPS 13",
+          "price": "$1281.99",
+          "description": "13.3\" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8.1",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/40"
+        },
+        {
+          "productName": "Toshiba Portege",
+          "price": "$1294.74",
+          "description": "Toshiba Portege Z30-C-16K Grey, 13.3\" FHD, Core i5-6200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "7 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/134"
+        },
+        {
+          "productName": "MSI GL62VR 7RFX",
+          "price": "$1299",
+          "description": "MSI GL62VR 7RFX, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 256GB SSD, GeForce GTX 1060 3GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/135"
+        },
+        {
+          "productName": "Dell Latitude 54",
+          "price": "$1310.39",
+          "description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/136"
+        },
+        {
+          "productName": "ThinkPad X240",
+          "price": "$1311.99",
+          "description": "12.5\", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit",
+          "rating": "N/A",
+          "reviews": "10 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/35"
+        },
+        {
+          "productName": "Hewlett Packard",
+          "price": "$1326.83",
+          "description": "Hewlett Packard ProBook 640 G3, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "11 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/137"
+        },
+        {
+          "productName": "Apple MacBook Pr",
+          "price": "$1333",
+          "description": "Apple MacBook Pro 13\" Space Gray, Core i5 2.3GHz, 8GB, 128GB SSD, Iris Plus 640, ENG",
+          "rating": "N/A",
+          "reviews": "5 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/138"
+        },
+        {
+          "productName": "Dell Latitude 55",
+          "price": "$1337.28",
+          "description": "Dell Latitude 5580, 15.6\" FHD, Core i7-7600U, 8GB, 256GB SSD, GeForce GT930MX, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/139"
+        },
+        {
+          "productName": "Dell Latitude 54",
+          "price": "$1338.37",
+          "description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux + Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/140"
+        },
+        {
+          "productName": "Dell Latitude 55",
+          "price": "$1341.22",
+          "description": "Dell Latitude 5580, 15.6\" FHD, Core i7-7600U, 16GB, 256GB SSD, GeForce GT930MX, Linux",
+          "rating": "N/A",
+          "reviews": "9 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/141"
+        },
+        {
+          "productName": "Apple MacBook Ai",
+          "price": "$1347.78",
+          "description": "Apple MacBook Air 13\", Intel Core i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, RUS",
+          "rating": "N/A",
+          "reviews": "5 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/142"
+        },
+        {
+          "productName": "Lenovo ThinkPad",
+          "price": "$1349.23",
+          "description": "Lenovo ThinkPad T470, 14\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/143"
+        },
+        {
+          "productName": "Lenovo ThinkPad",
+          "price": "$1362.24",
+          "description": "Lenovo ThinkPad Yoga 370 Black, 13.3\" FHD IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/144"
+        },
+        {
+          "productName": "Toshiba Portege",
+          "price": "$1366.32",
+          "description": "Toshiba Portege X20W-D-10V Black/Blue, 12.5\" FHD Touch, Core i7-7500U, 8GB, 512GB SSD, Windows 10 Pro",
+          "rating": "N/A",
+          "reviews": "7 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/145"
+        },
+        {
+          "productName": "Asus ASUSPRO B94",
+          "price": "$1381.13",
+          "description": "Asus ASUSPRO B9440UA-GV0279R Gray, 14\" FHD, Core i7-7500U, 16GB, 512GB SSD, Windows 10 Pro, Eng kbd",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/146"
+        },
+        {
+          "productName": "Lenovo Legion Y7",
+          "price": "$1399",
+          "description": "Lenovo Legion Y720, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/56"
+        },
+        {
+          "productName": "Asus ROG Strix G",
+          "price": "$1399",
+          "description": "Asus ROG Strix GL702VM-GC146T, 17.3\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1060 3GB, Windows 10 Home, Eng kbd",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/147"
+        },
+        {
+          "productName": "Asus ROG Strix G",
+          "price": "$1769",
+          "description": "Asus ROG Strix GL702ZC-GC154T, 17.3\" FHD, Ryzen 7 1700, 16GB, 256GB + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/57"
+        },
+        {
+          "productName": "Asus ROG Strix G",
+          "price": "$1769",
+          "description": "Asus ROG Strix GL702ZC-GC209T, 17.3\" FHD IPS, Ryzen 7 1700, 16GB, 256GB SSD + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/58"
+        },
+        {
+          "productName": "Asus ROG Strix S",
+          "price": "$1799",
+          "description": "Asus ROG Strix SCAR Edition GL503VM-ED115T, 15.6\" FHD 120Hz, Core i7-7700HQ, 16GB, 256GB SSD + 1TB SSHD, GeForce GTX 1060 6GB, Windows 10 Home",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/59"
+        }
+      ],
+      "Tablets": [
+        {
+          "productName": "Lenovo IdeaTab",
+          "price": "$69.99",
+          "description": "7\" screen, Android",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/10"
+        },
+        {
+          "productName": "IdeaTab A3500L",
+          "price": "$88.99",
+          "description": "Black, 7\" IPS, Quad-Core 1.2GHz, 8GB, Android 4.2",
+          "rating": "N/A",
+          "reviews": "5 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/15"
+        },
+        {
+          "productName": "Acer Iconia",
+          "price": "$96.99",
+          "description": "7\" screen, Android, 16GB",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/11"
+        },
+        {
+          "productName": "Galaxy Tab 3",
+          "price": "$97.99",
+          "description": "7\", 8GB, Wi-Fi, Android 4.2, White",
+          "rating": "N/A",
+          "reviews": "4 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/18"
+        },
+        {
+          "productName": "Iconia B1-730HD",
+          "price": "$99.99",
+          "description": "Black, 7\", 1.6GHz Dual-Core, 8GB, Android 4.4",
+          "rating": "N/A",
+          "reviews": "10 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/27"
+        },
+        {
+          "productName": "Memo Pad HD 7",
+          "price": "$101.99",
+          "description": "IPS, Dual-Core 1.2GHz, 8GB, Android 4.3",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/23"
+        },
+        {
+          "productName": "Asus MeMO Pad",
+          "price": "$102.99",
+          "description": "7\" screen, Android, 8GB",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/12"
+        },
+        {
+          "productName": "Amazon Kindle",
+          "price": "$103.99",
+          "description": "6\" screen, wifi",
+          "rating": "N/A",
+          "reviews": "14 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/13"
+        },
+        {
+          "productName": "Galaxy Tab 3",
+          "price": "$107.99",
+          "description": "7\", 8GB, Wi-Fi, Android 4.2, Yellow",
+          "rating": "N/A",
+          "reviews": "4 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/22"
+        },
+        {
+          "productName": "IdeaTab A8-50",
+          "price": "$121.99",
+          "description": "Blue, 8\" IPS, Quad-Core 1.3GHz, 16GB, Android 4.2",
+          "rating": "N/A",
+          "reviews": "5 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/28"
+        },
+        {
+          "productName": "MeMO Pad 7",
+          "price": "$130.99",
+          "description": "White, 7\", Atom 1.2GHz, 8GB, Android 4.4",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/20"
+        },
+        {
+          "productName": "IdeaTab A3500-H",
+          "price": "$148.99",
+          "description": "Blue, 7\" IPS, Quad-Core 1.3GHz, 8GB, 3G, Android 4.2",
+          "rating": "N/A",
+          "reviews": "5 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/17"
+        },
+        {
+          "productName": "IdeaTab S5000",
+          "price": "$172.99",
+          "description": "Silver, 7\" IPS, Quad-Core 1.2Ghz, 16GB, 3G, Android 4.2",
+          "rating": "N/A",
+          "reviews": "5 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/26"
+        },
+        {
+          "productName": "Galaxy Tab 4",
+          "price": "$233.99",
+          "description": "LTE (SM-T235), Quad-Core 1.2GHz, 8GB, Black",
+          "rating": "N/A",
+          "reviews": "4 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/21"
+        },
+        {
+          "productName": "Galaxy Tab",
+          "price": "$251.99",
+          "description": "16GB, White",
+          "rating": "N/A",
+          "reviews": "4 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/16"
+        },
+        {
+          "productName": "MeMo PAD FHD 10",
+          "price": "$320.99",
+          "description": "White, 10.1\" IPS, 1.6GHz, 2GB, 16GB, Android 4.2",
+          "rating": "N/A",
+          "reviews": "12 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/25"
+        },
+        {
+          "productName": "Galaxy Note",
+          "price": "$399.99",
+          "description": "10.1\", 3G, Android 4.0, Garnet Red",
+          "rating": "N/A",
+          "reviews": "4 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/29"
+        },
+        {
+          "productName": "Galaxy Note",
+          "price": "$489.99",
+          "description": "12.2\", 32GB, WiFi, Android 4.4, White",
+          "rating": "N/A",
+          "reviews": "4 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/19"
+        },
+        {
+          "productName": "iPad Mini Retina",
+          "price": "$537.99",
+          "description": "Wi-Fi + Cellular, 32GB, Silver",
+          "rating": "N/A",
+          "reviews": "1 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/14"
+        },
+        {
+          "productName": "Galaxy Note 10.1",
+          "price": "$587.99",
+          "description": "10.1\", 32GB, Black",
+          "rating": "N/A",
+          "reviews": "4 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/24"
+        },
+        {
+          "productName": "Apple iPad Air",
+          "price": "$603.99",
+          "description": "Wi-Fi, 64GB, Silver",
+          "rating": "N/A",
+          "reviews": "5 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/30"
+        }
+      ]
+    }
+  },
+  "Phones": {
+    "products": [
+      {
+        "productName": "Samsung Galaxy",
+        "price": "$93.99",
+        "description": "5 mpx. Android 5.0",
+        "rating": "3",
+        "reviews": "N/A",
+        "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/3"
+      },
+      {
+        "productName": "Iphone",
+        "price": "$899.99",
+        "description": "White",
+        "rating": "1",
+        "reviews": "N/A",
+        "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/7"
+      },
+      {
+        "productName": "Iphone",
+        "price": "$899.99",
+        "description": "Black",
+        "rating": "1",
+        "reviews": "N/A",
+        "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/9"
+      }
+    ],
+    "subcategories": {
+      "Touch": [
+        {
+          "productName": "Nokia 123",
+          "price": "$24.99",
+          "description": "7 day battery",
+          "rating": "N/A",
+          "reviews": "10 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/1"
+        },
+        {
+          "productName": "LG Optimus",
+          "price": "$57.99",
+          "description": "3.2\" screen",
+          "rating": "N/A",
+          "reviews": "7 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/2"
+        },
+        {
+          "productName": "Samsung Galaxy",
+          "price": "$93.99",
+          "description": "5 mpx. Android 5.0",
+          "rating": "N/A",
+          "reviews": "7 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/3"
+        },
+        {
+          "productName": "Nokia X",
+          "price": "$109.99",
+          "description": "Andoid, Jolla dualboot",
+          "rating": "N/A",
+          "reviews": "10 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/4"
+        },
+        {
+          "productName": "Sony Xperia",
+          "price": "$118.99",
+          "description": "GPS, waterproof",
+          "rating": "N/A",
+          "reviews": "4 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/5"
+        },
+        {
+          "productName": "Ubuntu Edge",
+          "price": "$499.99",
+          "description": "Sapphire glass",
+          "rating": "N/A",
+          "reviews": "3 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/6"
+        },
+        {
+          "productName": "Iphone",
+          "price": "$899.99",
+          "description": "White",
+          "rating": "N/A",
+          "reviews": "11 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/7"
+        },
+        {
+          "productName": "Iphone",
+          "price": "$899.99",
+          "description": "Silver",
+          "rating": "N/A",
+          "reviews": "11 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/8"
+        },
+        {
+          "productName": "Iphone",
+          "price": "$899.99",
+          "description": "Black",
+          "rating": "N/A",
+          "reviews": "11 reviews",
+          "productUrl": "https://webscraper.io/test-sites/e-commerce/ajax/product/9"
+        }
+      ]
+    }
+  }
+}
