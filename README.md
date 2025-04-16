@@ -6,6 +6,15 @@ This project demonstrates the ability to scrape data from an AJAX-powered e-comm
 
 Extract product data from a test e-commerce website that uses AJAX pagination, store it, and display it in a user-friendly interface.
 
+## 🚀 Quick Start
+```bash
+# Run the scraper directly
+npx ts-node -P tsconfig-commonjs.json src/utils/scraper.ts
+```
+
+## 📹 Demo
+[Watch the demo on YouTube]https://youtu.be/whPJGhz-htE
+
 ## 🔑 Key Features
 
 - **Web Scraper**: Navigates through all categories & subcategories, handles AJAX pagination to extract products
