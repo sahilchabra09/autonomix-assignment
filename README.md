@@ -1,3 +1,7 @@
+# Deployment link 
+- Note this is static deployemt for watching and testing ui and scrapper doesnot work on it to test scrapper follow setup instructions below scrapper only works on local host
+ https://autonomix-assigment.vercel.app/
+
 # Web Scraping & Display Project
 
 This project demonstrates the ability to scrape data from an AJAX-powered e-commerce website and display it cleanly on a simple frontend.
